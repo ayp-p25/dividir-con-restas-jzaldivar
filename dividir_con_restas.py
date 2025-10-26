@@ -8,8 +8,8 @@ Fecha:10/10/25
 Calcular el cociente y residuo de una división usando sólo sumas y
 restas
 """
-dividendo = float(input("Ingrese un dividendo: "))
-divisor = float(input("Ingrese un divisor: "))
+dividendo = int(input("Ingrese un dividendo: "))
+divisor = int(input("Ingrese un divisor: "))
 cociente = 0
 residuo = 0
 f2 = 0
